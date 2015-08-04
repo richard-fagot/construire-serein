@@ -2,10 +2,21 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Historique
+  url: "/historique/"
   side: left
-
+  
+- title: Techniques
+  url: "/techniques/"
+  side: left
+  dropdown:
+  -title: "Les bases"
+   url: "/techniques/bases"
+  -title: "Techniques avancées"
+   url: "/techniques/avancees/"
+  -title: "Techniques de champion"
+   url: "/techniques/champions"
+   
 - title: "Templates"
   url: "/design/"
   side: left
