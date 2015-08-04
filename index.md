@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header.png"
 widget-1:
     title: "Techniques de base"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
