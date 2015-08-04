@@ -12,3 +12,6 @@ Vidéo 1
 Vidéo 2
 ...
 
+{% for post in site.categories.design %}
+    <li>{{ post.title }}</li>
+{% endfor %}
