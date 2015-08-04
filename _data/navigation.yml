@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+  title: Histoire
+  url: "/histoire-de-la-savate/"
+  side: left
+  
 - title: Techniques de base
   url: "/techniques-de-base/"
   side: left
