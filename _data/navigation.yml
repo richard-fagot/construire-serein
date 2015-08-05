@@ -1,7 +1,3 @@
-- title: Start
-  url: "/"
-  side: left
-
 - title: Histoire
   url: "/histoire-de-la-savate/"
   side: left
@@ -64,7 +60,7 @@
     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
+  url: "/"
   side: left
   dropdown:
   - title: "Blog Archive"
