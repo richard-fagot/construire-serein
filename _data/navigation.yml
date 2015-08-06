@@ -60,7 +60,7 @@
     url: "/roadmap/"
 
 - title: Blog
-  url: "/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
