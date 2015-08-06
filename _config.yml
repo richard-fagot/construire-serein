@@ -45,7 +45,7 @@ paginate: 5
 
 
 # Pagination path › Important for blog page in /blog/ to work
-paginate_path: "blog/page:num"
+paginate_path: "/page:num"
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -85,7 +85,7 @@ defaults:
     values:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: false
+      comments: true
       author: "Esprit Savate"
   -
     scope:
