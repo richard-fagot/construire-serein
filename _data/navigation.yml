@@ -61,8 +61,6 @@
 
 - title: Blog
   url: "/blog/"
-  redirect_from: 
-   - /
   side: left
   dropdown:
   - title: "Blog Archive"
