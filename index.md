@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: blog
+format: blog-index
 title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "header.png"
