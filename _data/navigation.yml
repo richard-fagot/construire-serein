@@ -15,7 +15,7 @@
   side: left
 
 - title: Compétition
-  url: "competition"
+  url: "/competition/"
   side: left
 
 - title: "Rechercher"
