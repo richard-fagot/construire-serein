@@ -18,10 +18,10 @@
   url: "competition"
   side: left
 
-- title: "Search"
+- title: "Rechercher"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right

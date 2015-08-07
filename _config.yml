@@ -152,10 +152,10 @@ msapplication_tilecolor:                "#fabb00"
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 og_image:                           "http://richard-fagot.github.io/boxe/phlow_de-logo-512x.png"
-og_locale:                          "en_EN"
+og_locale:                          "fr_FR"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+og_title:                           "Esprit Savate - Tout sur la Savate Boxe Française"
+og_description:                     "Découvrez et perfectionnez les techniques de la Savate Boxe Française : techniques, programmes d'entraînements, conseils, interviews de champions..."
 # og_url:                           ""
 # og_site_name:                     ""
 
