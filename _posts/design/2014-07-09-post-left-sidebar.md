@@ -9,6 +9,7 @@ tags:
     - post format
 categories:
     - design
+    - techniques
 image:
     title: "unsplash_1.jpg"
     caption: Unsplash.com
