@@ -5,6 +5,6 @@ title: "Conseils"
 subheadline: "Conseils technico-tactiques"
 #header:
 #   image_fullwidth: "header_unsplash_5.jpg"
-category: conseil
+categoryname: conseil
 permalink: "/conseils/"
 ---

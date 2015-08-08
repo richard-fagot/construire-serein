@@ -7,7 +7,6 @@ teaser: "L'histoire de la Savate Boxe Française, des mauvais garçons au sport 
 comments: true
 header:
    image_fullwidth: "header.png"
-permalink: "/histoire-de-la-savate/"
 ---
 
 blablabla

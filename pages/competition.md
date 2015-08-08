@@ -5,6 +5,6 @@ title: "Compétition"
 subheadline: "Réglementation, arbitrage, protocoles"
 #header:
 #   image_fullwidth: "header_unsplash_5.jpg"
-category: competition
+categoryname: competition
 permalink: "/competition/"
 ---
