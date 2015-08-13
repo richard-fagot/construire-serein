@@ -9,4 +9,7 @@ tags:
     - boxe
     - histoire
 ---
+Avant de devenir la discipline sportive que nous connaissons aujourd'hui, la *Savate Boxe Française* a connu une longue évolution. Seule boxe pieds-poings Européenne, elle a servi d'inspiration à de nombreuses autres disciplines, impressionnées par ses déplacements ou ses coups de pieds.
+
 L'histoire de la savate débute dans les bas quartiers où les mauvais garçon s'affrontent au <em>chausson</em>.
+

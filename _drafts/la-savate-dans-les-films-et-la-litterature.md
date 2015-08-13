@@ -2,7 +2,7 @@
 layout: page
 title: "La Savate dans les films et la littérature"
 subheadline: "D'Arsène Lupin au Grand Tournoi"
-teaser: "La <em>Savate Boxe Française</em> a inspiré quelques écrivains et réalisateurs. Découvrez ici les films et les livres dont les personnages pratiquent la <em>Savate</em>."
+teaser: "En plus d'inspirer des grands maîtres d'<em>Arts Martiaux</em>, la <em>Savate Boxe Française</em> a également inspiré de grands auteurs."
 categories:
     - savate
 tags:
@@ -10,23 +10,39 @@ tags:
     - livre
     - histoire
 ---
-En plus d'inspirer des grands maîtres d'*Arts Martiaux*, la *Savate Boxe Française* a également inspiré de grands auteurs.
 
-## Les aventures de Tintin
 
-### L'île noire
+## BD
+
+### Les aventures de Tintin
+
+#### L'île noire
 
 Dans l'album *L'île noire*, Tintin contre-attaque à une prise de Jiu-Jitsu par un coup de pied de *Savate*. C'est un coup de pied porté à la figure en prenant appui sur les mains. Ce coup n'est plus autorisé de nos jours.
 <img class="t60" src="{{ site.urlimg }}/fiction/ile noire.png">
 
-### Vol 714 pour Sydney
+#### Vol 714 pour Sydney
 
- Dans l'album *Vol 714 pour Sydney*, le professeur Tournesol fait une démonstration d'un <fouété visage>. Notez que, pour lui :
+ Dans l'album *Vol 714 pour Sydney*, le professeur Tournesol fait une démonstration d'un *fouété visage*. Notez que, pour lui :
  
  > [la savate est] un vrai sport de combat !
  <cite>Professeur Tournesol</cite>
 
 <img class="t60" src="{{ site.urlimg }}/fiction/Vol 714 pour Sydney.png">
+
+## Manga
+
+### Shijou Saikyo no deshi kenichi
+
+Dans ce manga, le héro affronte *Christopher Éclair* un maître de *Savate*.
+
+<img class="t60" src="{{ site.urlimg }}/fiction/Shijou Saikyo no deshi kenichi.png">
+
+###  Medaka Box
+
+Dans ce manga, Zenkichi utilise des techniques de *Savate*.
+
+<img class="t60" src="{{ site.urlimg }}/fiction/Zenkichi.jpg">
 
 ## Arsène Lupin, le gentleman cambrioleur
 
