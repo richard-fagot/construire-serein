@@ -2,7 +2,7 @@
 layout: page
 title: "Comment bien exécuter le fouété bas"
 subheadline: "Le fouété bas"
-teaser: "Le fouété bas est un des coups les plus utilisés en <em>Savate Boxe Française</em>. En assault il permet de prendre facilement des points. En combat, il est particulièrement efficace pour casser les appuis de l'adversaires."
+teaser: "Le fouété bas est un des coups les plus utilisés en <em>Savate Boxe Française</em>. En assaut il permet de prendre facilement des points. En combat, il est particulièrement efficace pour casser les appuis de l'adversaire."
 categories:
     - techniques
 tags:

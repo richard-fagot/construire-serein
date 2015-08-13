@@ -8,7 +8,7 @@ categories:
 tags:
     - boxe
 ---
-La <strong>Savate Boxe Française</strong> est un sport de combat <em>pieds-poings</em> où deux adversaires s'affrontent munis de gants et de chaussons (c'est le seul sport de combat dans lequel les adversaires portent des chaussures (hors arts martiaux asiatiques). La Savate utilise tous les coups de poings issus de la <em>Boxe Anglaise</em>, un ensemble de coups de pieds codifiés et se caractérise par ses déplacements perturbants l'adversaire. Les frappes au pieds doivent être portées exclusivement avec le chausson (les coups tibias ou de genous sont interdits). Les trajectoires des coups de pieds sont égalements importantes : tous les coups doivent être armés en levant le genou.
+La <strong>Savate Boxe Française</strong> est un sport de combat <em>pieds-poings</em> où deux adversaires s'affrontent munis de gants et de chaussons (c'est le seul sport de combat dans lequel les adversaires portent des chaussures (hors arts martiaux asiatiques). La Savate utilise tous les coups de poings issus de la <em>Boxe Anglaise</em>, un ensemble de coups de pieds codifiés et se caractérise par ses déplacements perturbants l'adversaire. Les frappes au pieds doivent être portées exclusivement avec le chausson (les coups tibias ou de genoux sont interdits). Les trajectoires des coups de pieds sont également importantes : tous les coups doivent être armés en levant le genou.
 
 ##Les coups de poings
 Les coups de poings autorisés sont ceux de la <em>Boxe Anglaise</em> :
