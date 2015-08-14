@@ -11,6 +11,21 @@ tags:
     - histoire
 ---
 
+## Cinéma
+
+### Les brigades du tigre
+Le film sorti en 2006, avec Clovis Cornillac, montre la brigade à l'entraînement (à 1:44 dans la vidéo). On y voit également un combat organisé dont la séquence est assez longue (vers 25:40).
+
+<div class="flex-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/meftVrpY3m8#t=1m44s" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### La Boom 2
+On peut voir une compétition de *Boxe Française* à environ 45:50 et à 47:10.
+
+<div class="flex-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/faHaVYe9yFw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## BD
 
@@ -44,22 +59,13 @@ Dans ce manga, Zenkichi utilise des techniques de *Savate*.
 
 <img class="t60" src="{{ site.urlimg }}/fiction/Zenkichi.jpg">
 
-## Arsène Lupin, le gentleman cambrioleur
+## Romans
 
-Dans le film Le Tatoué, Jean Gabin initie Louis de Funès à la boxe française.
-Arsène Lupin pratique la savate entre autres arts martiaux dans de nombreuses aventures racontées par Maurice Leblanc ainsi que dans le film Arsène Lupin (2004), où il est interprété par Romain Duris.
-Le film Dans les cordes (2007) se passe dans le milieu de la boxe française féminine.
-Dans Les Brigades du Tigre (série télévisée), les brigades du Tigre s'entrainent à la boxe française.
-Dans Les Brigades du Tigre (film), deux policiers appartenant à des brigades rivales s'affrontent dans un match de boxe française.
-Dans La Boum 2, Philippe, (Pierre Cosso) participe à une compétition de boxe française. Jean Charles Charmillon, « Charly », figure son adversaire.
-Dans le film Savate de Isaac Florentine, en 1995, avec Olivier Gruner.
-Dans les bandes dessinées Les Aventures de Tintin :
-dans L’Île Noire, Tintin riposte à une attaque de jiu-jitsu par un coup de savate ;
-dans Vol 714 pour Sydney, le professeur Tournesol fait une démonstration de savate, sport qu’il pratiquait dans sa jeunesse.
-Dans un album de bande dessinée de Léonard, la Guerre des génies, des planches d'époque d'illustrations de coups de boxe française sont affichées pour expliciter l'affrontement de deux robots.
-Dans le manga Shijou Saikyo no deshi kenichi tome 17, l'assassin Christopher Eclair est un maître français de savate.
-Dans le manga Médaka Box, le personnage de Zenkichi Hitoyoshi pratique la savate comme style de combat.
-Dans le manga One Piece, le personnage de Sanji utilise quelques techniques de savate.
-Dans le jeu vidéo Bob Winner de Loriciels, le personnage principal se bat en utilisant des techniques de savate.
-Dans le jeu vidéo sur Android : Iron Fist Boxing, un des combattants proposé a comme spécialité la savate.
-Dans le comics Captain America, le super-vilain Batroc est expert en savate.
+### Arsène Lupin, le gentleman cambrioleur
+Arsène Lupin enseigne la *Savate* dans les aventures racontées par Maurice Leblanc.
+
+<img class="t60" src="{{ site.urlimg }}/fiction/ArseneLupin.jpg">
+
+## Et d'autres !
+
+Malgré l'aspect relativement confidentiel de la *Savate Boxe Française*, elle est bien présente dans la littérature, les bandes dessinées et les films où elle apparaît tantôt comme une arme pour les gentils, tantôt comme une arme pour les méchants mais elle est toujours représentée comme une boxe pieds-poing particulièrement redoutable et redoutée.
