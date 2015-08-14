@@ -69,3 +69,8 @@ Arsène Lupin enseigne la *Savate* dans les aventures racontées par Maurice Leb
 ## Et d'autres !
 
 Malgré l'aspect relativement confidentiel de la *Savate Boxe Française*, elle est bien présente dans la littérature, les bandes dessinées et les films où elle apparaît tantôt comme une arme pour les gentils, tantôt comme une arme pour les méchants mais elle est toujours représentée comme une boxe pieds-poing particulièrement redoutable et redoutée.
+
+{% if page.categories != NULL %}
+## Voir aussi
+{% include list-posts.html entries='5' category='savate' %}
+{% endif%}
