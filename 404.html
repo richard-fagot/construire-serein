@@ -1,0 +1,25 @@
+---
+layout: compress
+permalink: "/404.html"
+---
+{% include head.html %}
+{% include google_search.html %}
+
+<body id="top-of-page" style="background-color:#dbeee3;">
+	<div class="row">
+  <div class="small-6 columns">
+     <img src="{{ site.url }}/assets/img/404.png">
+  </div>
+  <div class="small-6 columns">
+  	<p style="font-size:100px;text-align:center;color:#1f3e2d;">Ouups !</p>
+  	<p style="font-size:50px;text-align:center;color:#1f3e2d;">Vous semblez égaré...</p>
+  	<p style="text-align:center;color:#1f3e2d;"> Vous pouvez rechercher sur <strong>Construire Serein</strong> en utilisant le champ de recherche ci-dessous ou alors <a href="{{ site.url }}">revenir à l'accueil.</a></p>
+
+<form style="padding-bottom: 200px;" onsubmit="google_search()" >
+  <input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
+</form>
+  </div>
+</div>
+
+</body>
+</html>
