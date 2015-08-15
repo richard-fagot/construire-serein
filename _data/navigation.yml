@@ -2,29 +2,29 @@
   url: "/"
   side: left
 
-- title: La savate
-  url: "/savate/"
-  side: left
+# - title: La savate
+#   url: "/savate/"
+#   side: left
 
-- title: Techniques
-  url: "/techniques/"
-  side: left
+# - title: Techniques
+#   url: "/techniques/"
+#   side: left
 
-- title: Performance
-  url: "/performance/"
-  side: left
+# - title: Performance
+#   url: "/performance/"
+#   side: left
 
-- title: Conseils
-  url: "/conseils/"
-  side: left
+# - title: Conseils
+#   url: "/conseils/"
+#   side: left
 
-- title: Compétition
-  url: "/competition/"
-  side: left
+# - title: Compétition
+#   url: "/competition/"
+#   side: left
 
-- title: "Rechercher"
-  url: "/search/"
-  side: right
+# - title: "Rechercher"
+#   url: "/search/"
+#   side: right
 
 # - title: "Contact"
 #   url: "/contact/"

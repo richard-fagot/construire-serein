@@ -8,19 +8,19 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Esprit Savate"
+title: "Construire Serein"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Tout sur la Savate Boxe Française"
+slogan: "Faire construire sa maison en toute serénité"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Découvrez et perfectionnez les techniques de la Savate Boxe Française : techniques, programmes d'entraînements, conseils, interviews de champions..."
+description: "Profitez de mon expérience et faites construire votre propre maison en évitant les pièges."
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://richard-fagot.github.io/boxe"
+url: "http://richard-fagot.github.io/construire-serein"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -33,7 +33,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://richard-fagot.github.io/boxe/images/"
+urlimg: "http://richard-fagot.github.io/construire-serein/images/"
 
 
 # Logo size is 600x80 pixels
@@ -84,18 +84,18 @@ defaults:
       type: "pages"
     values:
       show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      sidebar: right    		# Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: "Esprit Savate"
+      author: "Construire Serein"
   -
     scope:
       path: ""        
       type: "posts"
     values:
       show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      sidebar: right       # Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: "Esprit Savate"
+      author: "Construire Serein"
 
 
 
@@ -151,11 +151,11 @@ msapplication_tilecolor:                "#fabb00"
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<   
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "http://richard-fagot.github.io/boxe/phlow_de-logo-512x.png"
+og_image:                           "http://richard-fagot.github.io/construire-serein/phlow_de-logo-512x.png"
 og_locale:                          "fr_FR"
 og_type:                            "website"
-og_title:                           "Esprit Savate - Tout sur la Savate Boxe Française"
-og_description:                     "Découvrez et perfectionnez les techniques de la Savate Boxe Française : techniques, programmes d'entraînements, conseils, interviews de champions..."
+og_title:                           "Construire Serein"
+og_description:                     "Faire construire sa maison en toute serénité"
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -179,7 +179,7 @@ og_description:                     "Découvrez et perfectionnez les techniques 
 #
 # used in _includes/comments.html
 
-disqus_shortname: espritsavate
+disqus_shortname: construireserein
 
 
 #      _____                
