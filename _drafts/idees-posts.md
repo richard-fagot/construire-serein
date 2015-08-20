@@ -61,5 +61,9 @@ Idées de posts dans l'ordre :
 1. Emplacement des compteurs ;
 1. Vise du technicien pour le branchement électrique qui ne place pas le compteur au bon endroit ;
 1. Récupération de la terre issue du terrassement : végétale pour paysager le terrain, argileuse pour le four à pain/pizza !  ;
+1. Choix de la couleur des menuiseries, homogénéité des menuiseries (penser à la porte) et impact sur l'esthétique de  la maison ;
+1. La période de congé ;
+1. Livraison prévue courant juin ;
+1. Livraison décalée : 6 mois d'avance ! ;
 
 
