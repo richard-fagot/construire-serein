@@ -12,6 +12,7 @@ Idées de posts dans l'ordre :
 1. Trouver l'architecte ;
 1. Signature de l'acte définitif pour le terrain ;
 1. Estimer le coût de la maison (maison, clôture, paysage terrain, frais divers...);
+1. Quelle somme emprunter => estimation archi arrondi à 10 000 ou 20 000 € au dessus ;
 1. Trouver le prêt ;
 1. Trouver la Dommage-Ouvrage ;
 1. Souscrire une protection juridique pour la durée de la construction ;
