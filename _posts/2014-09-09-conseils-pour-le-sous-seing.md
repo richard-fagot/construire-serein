@@ -42,8 +42,15 @@ Le montant à faire figurer dans le compromis de vente est le montant maximum qu
 
 La clause suspensive sur le montant emprunté vous permettra d'annuler la vente seulement si la banque vous refuse un prêt pour une somme plus petite ou égale à celle indiquée dans le compromis. Si vous faire une demande de prêt pour un montant supérieur au montant indiqué dans la clause et que la banque vous refuse le prêt vous ne pourrez pas faire jouer la clause et vous devrez payer des pénalités au vendeur.
 
-*Ne mettez pas de montant emprunté trop bas !* 
-Par exemple, imaginons que vous pouvez emprunter 100 000 € mais que vous ne mettez que 80 000 € dans la clause parce que vous ne voulez pas vous endetter au maximum. Après la phase de conception, l'architecte chiffre la maison de vos rêves à 100 000 €. C'est le plus bas qu'il puisse faire pour que vous puissiez avoir la maison qu'il vous faut vraiment et, finalement, vous changez d'avis et faites une demande pour emprunter 100 000 €. Et là, pas de bol, la banque refuse de vous préter les 100 000 €. Dans ce cas vous vous retrouverez dans la situation où soit vous modifiez la maison qui ne sera plus du tout ce que vous attendiez, et vous devrez vivre avec ça les 20 prochaines années ; soit vous devrez payer des indemnités au vendeur et vous commencez votre aventure en perdant plusieurs milliers d'euros.
+**Ne mettez pas de montant emprunté trop bas !**
+
+Par exemple, imaginons que vous pouvez emprunter 100 000 € mais que vous ne mettez que 80 000 € dans la clause parce que vous ne voulez pas vous endetter au maximum. 
+
+Après la phase de conception, l'architecte chiffre la maison de vos rêves à 100 000 €. C'est le plus bas qu'il puisse faire pour que vous puissiez avoir la maison qu'il vous faut vraiment et, finalement, vous changez d'avis et faites une demande pour emprunter 100 000 €. 
+
+Et là, pas de bol, la banque refuse de vous préter les 100 000 €. 
+
+Dans ce cas vous vous retrouverez dans la situation où soit vous modifiez la maison qui ne sera plus du tout ce que vous attendiez, et vous devrez vivre avec ça les 20 prochaines années ; soit vous devrez payer des indemnités au vendeur et vous commencez votre aventure en perdant plusieurs milliers d'euros.
 
 Si vous mettez une somme plus petite que votre capacité d'emprunt réelle et que finalement le projet coûte plus cher, vous ne pourrez pas faire jouer la clause suspensives si la banque vous refuse finalement un prêt pour ce montant.
 
@@ -52,8 +59,21 @@ Le meilleur moment pour monter votre dossier de prêt est juste après l'étude 
 
 Les deux premières étapes prendront environ 2 mois alors indiquez bien une date de dépôt du dossier de prêt au moins 2 mois après la signature du compromis.
 
+### Date d'obtention de l'accord de prêt
+La banque édite normalement l'offre de prêt sous un mois à compter du dépôt du dossier. 
+
+C'était vrai avant 2015. Depuis cette année les banques mettent beaucoup plus de temps à traiter les dossiers, à priori à cause d'une charge trop importante de demandes de prêt ou de rachat de prêt à cause des taux très bas.
+
+De plus, dans les faits il y a d'abord une proposition financière qui est faite en premier et pour laquelle il faut également compter un mois (vous approchez la banque pour un prêt, vous le fournissez le dossier, ils vous font une proposition sous un mois et si vous êtes d'accord ils éditent l'offre de prêt sous un mois de plus).
+
+Et finalement, une fois que vous avez reçu l'offre de prêt chez vous il faut encore attendre les 11 jours de délai de rétractation.
+
+Indiquez donc une date d'obtention de l'accord de prêt environ 3 mois après le dépôt du dossier à la banque.
+
 ## Étude de sol
-- résultat de l’analyse de sol (si fondation trop profonde => annulation) ;
+La clause suspensive relative à l'étude de sol vous protège dans le cas où cette étude révélerait le besoin de faire des fondations atypiques très honéreuses (fouilles profondes en particulier).
+
+Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dépasser 2 m. Néanmoins, comme chaque cas est différent, parlez en avec votre architecte pour indiquer une profondeur maximale adaptée à votre région et à votre budget.
 
 ## État des réseaux
 - état des réseaux pour la viabilisation (les réseaux passent à coté mais il faut se brancher plus loin pour l’eau parce que pas assez de pression) ;
@@ -96,3 +116,5 @@ Bref, vous êtes sûrs de pouvoir construire votre maison sur ce terrain dans le
 
 Mais pour ça, il faudra indiquer vos dates à vous et par les 3 ou 4 mois max habituellement donnés. Utilisez le graphique pour indiquer les dates attendues pour le dépôt du PC, le dépôt de la demande de prêt, le rapport de l'étude de sol, l'acceptation du PC, l'acceptation (ou refus) de la demande prêt et enfin la date prévisionnelle de la signature de l'acte définitif.
 
+## BONUS - Tenez votre notaire au courant
+Informer son notaire régulièrement est super important. C'est ce qui vous permettra de négocier plus facilement un glissement de date parce que la banque aura pris plus de temps où que les services en charge de votre de dossier de permis de construire vous ont demandé des pièces supplémentaires.
