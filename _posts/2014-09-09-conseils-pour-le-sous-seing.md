@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Quelques conseils pour le sous-seing"
-subheadline: "quelques clauses suspensives à mettre"
+title:  "Conseils pour le sous-seing"
+subheadline: "Quelques clauses suspensives à mettre dans le compromis"
 teaser: "Voici quelques clauses suspensives à faire apparaître pour vous protéger d'une mauvaise surprise"
 sidebar: right
 categories:
@@ -18,10 +18,34 @@ La contrepartie aux clauses suspensives est qu'il vous faudra vous engager sur d
 
 
 ## Permis de construire
-L'obtention du permis de construire n'est pas garantie. 
+Avant de pouvoir déposer le dossier du permis de construire à la mairie il faut concevoir votre maison. 
+
+Pour cette phase de conception, réalisée de pair avec votre architecte, il faut compter au minimum 2 mois. C'est le temps qu'il vous faudra pour positionner la maison, intégrer l'assainissement comme précisé dans l'étude de sol, faire les plans de la maison... 
+
+Il y a pas mal d'aller-retour entre l'architecte et vous et de temps morts. N'oubliez pas que vous n'êtes pas le seul client de votre architecte !!
+
+Une fois le dossier du permis de construire déposer il faut compter 2 mois d'instruction, 3 si la DDE vous demande des pièces justificatives (et parfois ils demandes des pièces bidons juste pour avoir plus de temps d'étudier le dossier).
+
+Dans le compromis il faudra donc faire apparaître la date de dépôt du dossier du permis de construire minimum 2 mois après la signature du compromis et la date d'obtention de l'arrêté 5 mois après la signature du compromis.
 
 ## Emprunts
 Vous achetez un terrain mais vous voulez faire construire une maison dessus. Le terrain ne vous sert à rien si vous n'obtenez pas le crédit pour la construction de la maison.
+
+Dans le compromis, trois informations vont apparaître :
+
+1. le montant maximum que vous emprunterez ;
+2. la date de dépôt du dossier de prêt ;
+3. la date d'obtention de l'accord de prêt.
+ 
+### Montant emprunté
+Le montant à faire figurer dans le compromis de vente est le montant maximum que vous pouvez emprunter selon les simulations faites avec les différents organismes de prêts que vous aurez solicité pendant la recherche de votre terrain.
+
+La clause suspensive sur le montant emprunté vous permettra d'annuler la vente seulement si la banque vous refuse un prêt pour une somme plus petite ou égale à celle indiquée dans le compromis. Si vous faire une demande de prêt pour un montant supérieur au montant indiqué dans la clause et que la banque vous refuse le prêt vous ne pourrez pas faire jouer la clause et vous devrez payer des pénalités au vendeur.
+
+*Ne mettez pas de montant emprunté trop bas !* 
+Par exemple, imaginons que vous pouvez emprunter 100 000 € mais que vous ne mettez que 80 000 € dans la clause parce que vous ne voulez pas vous endetter au maximum. Après la phase de conception, l'architecte chiffre la maison de vos rêves à 100 000 €. C'est le plus bas qu'il puisse faire pour que vous puissiez avoir la maison qu'il vous faut vraiment et, finalement, vous changez d'avis et faites une demande pour emprunter 100 000 €. Et là, pas de bol, la banque refuse de vous préter les 100 000 €. Dans ce cas vous vous retrouverez dans la situation où soit vous modifiez la maison qui ne sera plus du tout ce que vous attendiez, et vous devrez vivre avec ça les 20 prochaines années ; soit vous devrez payer des indemnités au vendeur et vous commencez votre aventure en perdant plusieurs milliers d'euros.
+
+Si vous mettez une somme plus petite que votre capacité d'emprunt réelle et que finalement le projet coûte plus cher, vous ne pourrez pas faire jouer la clause suspensives si la banque vous refuse finalement un prêt pour ce montant.
 
 ## Étude de sol
 - résultat de l’analyse de sol (si fondation trop profonde => annulation) ;
