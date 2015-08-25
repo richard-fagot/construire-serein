@@ -47,6 +47,11 @@ Par exemple, imaginons que vous pouvez emprunter 100 000 € mais que vous ne me
 
 Si vous mettez une somme plus petite que votre capacité d'emprunt réelle et que finalement le projet coûte plus cher, vous ne pourrez pas faire jouer la clause suspensives si la banque vous refuse finalement un prêt pour ce montant.
 
+### Date de dépôt du dossier de prêt
+Le meilleur moment pour monter votre dossier de prêt est juste après l'étude d'avant-projet. C'est la deuxième étape du travail de l'architecte. C'est l'étape à la fin de laquelle il peut vous faire une estimation juste de ce que coûtera la maison. 
+
+Les deux premières étapes prendront environ 2 mois alors indiquez bien une date de dépôt du dossier de prêt au moins 2 mois après la signature du compromis.
+
 ## Étude de sol
 - résultat de l’analyse de sol (si fondation trop profonde => annulation) ;
 
