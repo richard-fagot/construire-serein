@@ -73,29 +73,33 @@ Indiquez donc une date d'obtention de l'accord de prêt environ 3 mois après le
 ## Étude de sol
 La clause suspensive relative à l'étude de sol vous protège dans le cas où cette étude révélerait le besoin de faire des fondations atypiques très honéreuses (fouilles profondes en particulier).
 
-Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dépasser 2 m. Néanmoins, comme chaque cas est différent, parlez en avec votre architecte pour indiquer une profondeur maximale adaptée à votre région et à votre budget.
+Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dépasser 2m. Néanmoins, comme chaque cas est différent, parlez en avec votre architecte pour indiquer une profondeur maximale adaptée à votre région et à votre budget.
 
 ## État des réseaux
-- état des réseaux pour la viabilisation (les réseaux passent à coté mais il faut se brancher plus loin pour l’eau parce que pas assez de pression) ;
+Cette clause vous protège au cas où les travaux de raccordement aux réseau soient très chers à cause d'un sous-dimensionnement de ces dernier. Par exemple, la pression d'eau est insuffisante à proximité de votre terrain et il faut faire une tranchée 100m plus loin pour se brancher là où il y a suffisamment de pression.
+
+Demandez à la mairie qu'ils vous confirment que les réseaux sont suffisemment bien dimensionnés pour une nouvelle habitation et faites ajouter la pièce au compromis.
+
+Si jamais il y avait un soucis à ce niveau cela vous permerttrait d'obtenir un dédommagement.
 
 ## Clauses classiques
-- absence de servitude d'urbanisme ou d'utilité publique grevant le bien (mairie) ; non
-- la renonciation par une collectivité publique à son droit de préemption sur le bien ;
-- la situation hypothécaire apurée au moment de la vente ;
-- Hors zone classée, bâtiment de France, secteur sauvegardé (mairie) ; non
-- Terrain non pollué ;
+Normalement, il y a un certain nombre de clauses qui sont présentes par défaut dans un compromis mais ça ne coûte rien de vérifier :
+
+- Absence de servitude d'urbanisme ou d'utilité publique grevant le bien (mairie) ;
+- La renonciation par une collectivité publique à son droit de préemption sur le bien ;
+- La situation hypothécaire apurée au moment de la vente ;
+- Hors zone classée, bâtiment de France, secteur sauvegardé (mairie) ;
+- Terrain non pollué.
 
 ## Se donner du temps
 C'est tout aussi important que tout le reste !
 
-Généralement, un compromis indique un délai de 2 mois à partir de sa signature pour réaliser l'ensemble des démarches. Mais dans ces deux mois vous avez pas mal de travail :
+Tracez sur une feuille toutes les étapes que vous devrez suivre depuis la signature du compromis jusqu'à la signature de l'acte définitif en les agençant dans l'ordre et en leur assignant le temps nécessaire pour les traiter. Et prenez une marge de deux semaines environ selon le risque que vous évaluez.
 
-- faire réaliser l'étude de sol : il faut trouver l'entreprise, faire le devis (ils vont facilement prendre une semaine), accepter le devis, ils doivent trouver un moment pour faire les tests sur le terrain et enfin ils prennent 15 jours à 3 semaines pour éditer le rapport ;
-- trouver le prêt ou les prêts : il faut réunir de nombreuses pièces administratives, monter les dossiers, attendre le retour des banques (ils prennent facilement 1 mois après le dépôt des dossier, et encore, les délais s'allongent), quand vous êtes d'accord avec une offre il faut encore attendre l'édition de cette offre par la banque (normalement, il faut compter un mois, nous, nous avons dû attendre 3 mois. Oui oui, trois mois !!!) ;
-- monter le dossier du SPANC : une fois déposer il faut compter un mois pour avoir la réponse ;
-- monter le dossier du PC : l'architecte s'en occupe mais ça passe par les phases suivantes : 4 semaines pour l'étude préliminaire, 4 semaines pour l'étude d'avant projet et 4 semaines pour le dossier de demande du permis de construire. Une fois déposé, son instruction prend 2 mois !
-Prévoir un planning large pour réaliser toutes les études (sol, archi, prêts...) ;
-- attendre le recours des tiers et de l'administration : une fois le panneau du permis de construire affiché sur le terrain, les tiers (voisins en particulier) ont 2 mois pour contester et l'administration 3 mois.
+Il faudra probablement justifier ces délais beaucoup plus importants que les 2 à 4 mois communéments admis. Mais vous serez tranquile pour concervoir proprement votre maison sans risquer de devoir faire des compromis qui transformeraient votre maison de rêve en cauchemard... pendant 20 ans !!
+
+## Conclusion
+Voici un petit schema qui récapitule les délais :
 
 <div class="row">
     <div class="large-12 text-center column">
@@ -113,8 +117,6 @@ Même si certaines tâches peuvent se faire en parallèle on arrive quand même 
 - votre permis de construire est validé.
 
 Bref, vous êtes sûrs de pouvoir construire votre maison sur ce terrain dans le budget fixé initialement.
-
-Mais pour ça, il faudra indiquer vos dates à vous et par les 3 ou 4 mois max habituellement donnés. Utilisez le graphique pour indiquer les dates attendues pour le dépôt du PC, le dépôt de la demande de prêt, le rapport de l'étude de sol, l'acceptation du PC, l'acceptation (ou refus) de la demande prêt et enfin la date prévisionnelle de la signature de l'acte définitif.
 
 ## BONUS - Tenez votre notaire au courant
 Informer son notaire régulièrement est super important. C'est ce qui vous permettra de négocier plus facilement un glissement de date parce que la banque aura pris plus de temps où que les services en charge de votre de dossier de permis de construire vous ont demandé des pièces supplémentaires.
