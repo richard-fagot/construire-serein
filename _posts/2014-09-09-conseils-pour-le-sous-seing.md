@@ -36,6 +36,10 @@ Dans le compromis il faudra donc faire apparaître la date de dépôt du dossier
 ## Emprunts
 Vous achetez un terrain mais vous voulez faire construire une maison dessus. Le terrain ne vous sert à rien si vous n'obtenez pas le crédit pour la construction de la maison.
 
+<div class="row">
+<div class="small-8 text-center column"><img src="{{ site.urlimg }}billets.jpg"/></div>
+</div>
+
 Dans le compromis, trois informations vont apparaître :
 
 1. le montant maximum que vous emprunterez ;
