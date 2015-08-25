@@ -20,7 +20,7 @@ La contrepartie aux clauses suspensives est qu'il vous faudra vous engager sur d
 ## Permis de construire
 
 <div class="row">
-<div class="small-4 columns"><img src="{{ site.urlimg }}/Dossier PC.png"/></div>
+<div class="small-4 columns"><img src="{{ site.urlimg }}Dossier PC.png"/></div>
 <div class="small-8 columns">Avant de pouvoir déposer le dossier du permis de construire à la mairie il faut concevoir votre maison. </div>
 </div>
 
