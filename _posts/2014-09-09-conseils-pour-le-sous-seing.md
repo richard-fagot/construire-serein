@@ -18,7 +18,11 @@ La contrepartie aux clauses suspensives est qu'il vous faudra vous engager sur d
 
 
 ## Permis de construire
-Avant de pouvoir déposer le dossier du permis de construire à la mairie il faut concevoir votre maison. 
+
+<div class="row">
+<div class="small-4 columns"><img src="{{ site.urlimg }}/Dossier PC.png"/></div>
+<div class="small-8 columns">Avant de pouvoir déposer le dossier du permis de construire à la mairie il faut concevoir votre maison. </div>
+</div>
 
 Pour cette phase de conception, réalisée de pair avec votre architecte, il faut compter au minimum 2 mois. C'est le temps qu'il vous faudra pour positionner la maison, intégrer l'assainissement comme précisé dans l'étude de sol, faire les plans de la maison... 
 
