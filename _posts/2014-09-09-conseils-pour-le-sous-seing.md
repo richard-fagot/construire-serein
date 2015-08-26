@@ -86,6 +86,8 @@ Indiquez donc une date d'obtention de l'accord de prêt environ 3 mois après le
 ## Étude de sol
 La clause suspensive relative à l'étude de sol vous protège dans le cas où cette étude révélerait le besoin de faire des fondations atypiques très honéreuses (fouilles profondes en particulier).
 
+![Étude de sol]({{ site.urlimg }}terre.jpg "Étude de sol")
+
 Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dépasser 2m. Néanmoins, comme chaque cas est différent, parlez en avec votre architecte pour indiquer une profondeur maximale adaptée à votre région et à votre budget.
 
 ## État des réseaux
