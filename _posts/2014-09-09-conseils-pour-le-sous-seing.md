@@ -19,11 +19,7 @@ La contrepartie aux clauses suspensives est qu'il vous faudra vous engager sur d
 
 ## Permis de construire
 
-<div class="row">
-    <div class="large-12 text-center column">
-        <img src="{{ site.urlimg }}Dossier PC.png"/>
-    </div>
-</div>
+![Permis de construire]({{ site.urlimg }}Dossier PC.png "Permis de construire"){: .center-image }
 
 Avant de pouvoir déposer le dossier du permis de construire à la mairie il faut concevoir votre maison. 
 
@@ -38,11 +34,7 @@ Dans le compromis il faudra donc faire apparaître la date de dépôt du dossier
 ## Emprunts
 Vous achetez un terrain mais vous voulez faire construire une maison dessus. Le terrain ne vous sert à rien si vous n'obtenez pas le crédit pour la construction de la maison.
 
-<div class="row">
-<div class="small-2 columns">&nbsp;</div>
-<div class="small-8 text-center column"><img src="{{ site.urlimg }}billets.jpg"/></div>
-<div class="small-2 columns">&nbsp;</div>
-</div>
+![Emprunts]({{ site.urlimg }}billets.jpg "Emprunts"){: .center-image }
 
 Dans le compromis, trois informations vont apparaître :
 
@@ -55,7 +47,7 @@ Le montant à faire figurer dans le compromis de vente est le montant maximum qu
 
 La clause suspensive sur le montant emprunté vous permettra d'annuler la vente seulement si la banque vous refuse un prêt pour une somme plus petite ou égale à celle indiquée dans le compromis. Si vous faire une demande de prêt pour un montant supérieur au montant indiqué dans la clause et que la banque vous refuse le prêt vous ne pourrez pas faire jouer la clause et vous devrez payer des pénalités au vendeur.
 
-->**Ne mettez pas de montant emprunté trop bas !**<-
+**Ne mettez pas de montant emprunté trop bas !**
 
 Par exemple, imaginons que vous pouvez emprunter 100 000 € mais que vous ne mettez que 80 000 € dans la clause parce que vous ne voulez pas vous endetter au maximum. 
 
@@ -86,7 +78,7 @@ Indiquez donc une date d'obtention de l'accord de prêt environ 3 mois après le
 ## Étude de sol
 La clause suspensive relative à l'étude de sol vous protège dans le cas où cette étude révélerait le besoin de faire des fondations atypiques très honéreuses (fouilles profondes en particulier).
 
-![Étude de sol]({{ site.urlimg }}terre.jpg "Étude de sol")
+![Étude de sol]({{ site.urlimg }}terre.jpg "Étude de sol"){: .center-image }
 
 Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dépasser 2m. Néanmoins, comme chaque cas est différent, parlez en avec votre architecte pour indiquer une profondeur maximale adaptée à votre région et à votre budget.
 
@@ -116,11 +108,6 @@ Il faudra probablement justifier ces délais beaucoup plus importants que les 2 
 ## Conclusion
 Voici un petit schema qui récapitule les délais :
 
-<!--<div class="row">
-    <div class="large-12 text-center column">
-        <img src="{{ site.urlimg }}delais-clauses.png"/>
-    </div>
-</div>-->
 ![Délais]({{ site.urlimg }}delais-clauses.png){: .center-image }
 
 Même si certaines tâches peuvent se faire en parallèle on arrive quand même à 8 mois entre la signature du compromis et la signature de l'acte définitif. Mais dans ce cas vous êtes sûr que :
