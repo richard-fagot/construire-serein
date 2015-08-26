@@ -55,7 +55,7 @@ Le montant à faire figurer dans le compromis de vente est le montant maximum qu
 
 La clause suspensive sur le montant emprunté vous permettra d'annuler la vente seulement si la banque vous refuse un prêt pour une somme plus petite ou égale à celle indiquée dans le compromis. Si vous faire une demande de prêt pour un montant supérieur au montant indiqué dans la clause et que la banque vous refuse le prêt vous ne pourrez pas faire jouer la clause et vous devrez payer des pénalités au vendeur.
 
-**Ne mettez pas de montant emprunté trop bas !**
+->**Ne mettez pas de montant emprunté trop bas !**<-
 
 Par exemple, imaginons que vous pouvez emprunter 100 000 € mais que vous ne mettez que 80 000 € dans la clause parce que vous ne voulez pas vous endetter au maximum. 
 
