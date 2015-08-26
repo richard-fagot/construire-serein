@@ -9,6 +9,7 @@
 - Side-Nav
 - Accordion
 - Lazy Load XT
+- Images
 
 */
 
@@ -143,4 +144,12 @@ img.lazy {
     -o-transition: opacity 0.7s;
     transition: opacity 0.7s;
     opacity: 1;
+}
+
+/* Images
+------------------------------------------------------------------- */
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
