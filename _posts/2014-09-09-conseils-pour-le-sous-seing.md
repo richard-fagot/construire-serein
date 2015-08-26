@@ -116,11 +116,12 @@ Il faudra probablement justifier ces délais beaucoup plus importants que les 2 
 ## Conclusion
 Voici un petit schema qui récapitule les délais :
 
-<div class="row">
+<!--<div class="row">
     <div class="large-12 text-center column">
         <img src="{{ site.urlimg }}delais-clauses.png"/>
     </div>
-</div>
+</div>-->
+![Délais]({{ site.urlimg }}delais-clauses.png){: .center-image }
 
 Même si certaines tâches peuvent se faire en parallèle on arrive quand même à 8 mois entre la signature du compromis et la signature de l'acte définitif. Mais dans ce cas vous êtes sûr que :
 
