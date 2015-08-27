@@ -103,7 +103,7 @@ Normalement, il y a un certain nombre de clauses qui sont présentes par défaut
 ## Se donner du temps
 C'est tout aussi important que tout le reste !
 
-![Se donner du temps]({{ site.urlimg }}temps.png "Se donner du temps"){: .center-image }
+![Se donner du temps]({{ site.urlimg }}temps.jpg "Se donner du temps"){: .center-image }
 
 Tracez sur une feuille toutes les étapes que vous devrez suivre depuis la signature du compromis jusqu'à la signature de l'acte définitif en les agençant dans l'ordre et en leur assignant le temps nécessaire pour les traiter. Et prenez une marge de deux semaines environ selon le risque que vous évaluez.
 
