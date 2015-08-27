@@ -85,7 +85,7 @@ Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dé
 ## État des réseaux
 Cette clause vous protège au cas où les travaux de raccordement aux réseau soient très chers à cause d'un sous-dimensionnement de ces dernier. Par exemple, la pression d'eau est insuffisante à proximité de votre terrain et il faut faire une tranchée 100m plus loin pour se brancher là où il y a suffisamment de pression.
 
-![État des réseaux]({{ site.urlimg }}reseau.jpg "État des réseaux"){: .center-image }
+![État des réseaux]({{ site.urlimg }}reseaux.jpg "État des réseaux"){: .center-image }
 
 Demandez à la mairie qu'ils vous confirment que les réseaux sont suffisemment bien dimensionnés pour une nouvelle habitation et faites ajouter la pièce au compromis.
 
