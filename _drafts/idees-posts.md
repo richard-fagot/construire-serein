@@ -8,7 +8,8 @@ categories:
 ---
 Idées de posts dans l'ordre :
 
-1. Conseils pour le sous-seing ;
+1. Sketch de la LCL qui nous ouvre un compte en consultation seulement...
+1. Sketch du 1% logement pour la RT2012 où ils ne veulent pas du document officiel mais un papier sur l'honneur de l'archi ;
 1. Trouver l'architecte ;
 1. Signature de l'acte définitif pour le terrain ;
 1. Estimer le coût de la maison (maison, clôture, paysage terrain, frais divers...);

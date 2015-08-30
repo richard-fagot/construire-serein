@@ -83,7 +83,7 @@ La clause suspensive relative à l'étude de sol vous protège dans le cas où c
 Ajoutez comme clause suspensive que la profondeur des fondations ne doit pas dépasser 2m. Néanmoins, comme chaque cas est différent, parlez en avec votre architecte pour indiquer une profondeur maximale adaptée à votre région et à votre budget.
 
 ## État des réseaux
-Cette clause vous protège au cas où les travaux de raccordement aux réseaux soient très chers à cause d'un sous-dimensionnement de ces dernier. Par exemple, la pression d'eau est insuffisante à proximité de votre terrain et il faut faire une tranchée 100m plus loin pour se brancher là où il y a suffisamment de pression.
+Cette clause vous protège au cas où les travaux de raccordement aux réseaux soient très chers à cause d'un sous-dimensionnement de ces derniers. Par exemple, la pression d'eau est insuffisante à proximité de votre terrain et il faut faire une tranchée 100m plus loin pour se brancher là où il y a suffisamment de pression.
 
 ![État des réseaux]({{ site.urlimg }}reseaux.jpg "État des réseaux"){: .center-image }
 
