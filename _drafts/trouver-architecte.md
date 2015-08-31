@@ -19,6 +19,7 @@ Cette recherche prend du temps parce qu'il faut trouver un architecte
 
 
 ## Budget
+![Photo d'un tas de sous]()
 On trouve généralement, sur les forums et les sites spécialisés, qu'il faut compter des honoraires aux alentours de 10% du montant des travaux. Encore faut-il savoir ce qu'on compte dans les travaux. Même s'il y a un tronc commun à ce qu'on appelle *"les travaux"*, il y a toujours  des nuances qui peuvent se révéler franchement honéreuses. 
 
 Certains architectes se font rémunérer à l'heure. Dans ce cas, cela devient très difficile d'estimer le coût de l'architecte dans votre budget. Personnellement, je vous recommande de choisir ce type de rémunération que si vous êtes confiant et que vous savez ce que vous faites. 
@@ -29,7 +30,7 @@ Bien sûr, n'hésitez pas à négocier mais rappelez-vous toujours qu'une bonne 
 
 
 ## Proximité de la construction
-=> Image google maps avec un itinéraire
+![Image google maps avec un itinéraire]()
 Trouver un architecte proche du terrain de construction est avantageux quant aux frais de déplacement et à la fréquence du suivi et des interventions.
 
 S'il facture des frais de déplacement, cela vous reviendra moins cher que si l'architecte doit faire 100km pour se rendre sur votre terrain. Et l'addition peut vite grimper.
@@ -38,13 +39,16 @@ s'il est proche du terrain, il pourra s'y rendre plus facilement et surtout plus
 
 
 ## Style architectural
-Les architectes sont des artistes. Ils prennent un terrain nu, quelques idées de pièces 
-et font sortir de terre la maison de vos rêves, avec des détails que vous ne trouverez pas chez un constructeur : un agencement de pièce original et fonctionnel, un aspect bien plus sexy que les maisons cubes aseptisées qu'on voit fleurir partout, 
+Les architectes sont des artistes. Ils prennent un terrain nu, quelques idées de pièces et font sortir de terre la maison de vos rêves, avec des détails que vous ne trouveriez pas chez un constructeur : un agencement de pièce original et fonctionnel, un aspect bien plus sexy que les maisons cubes aseptisées qu'on voit fleurir partout, des mélanges de matières, de couleurs, bref, une maison vivante, unique: votre maison à vous. 
+
+Encore faut-il que son style vous plaise !
+
+Demandez à l'architecte quelques exemples de ses réalisations, les matières qu'il utilise, s'il a une sensibilité écologique, hi-tech, low-tech, etc.
 
 ## À l'écoute
-Vous arrivez chez l'architecte avec une idée plus ou moins précise de votre projet, plutôt moins en fait... 
+Vous arrivez chez l'architecte avec une idée plus ou moins précise de votre projet un peu comme on va chez le médecin en lui disant *"j'ai mal là"* et lui doit se déboruiller pour poser le bon diagnostique.
 
-Il faut que l'architecte soit prêt à vous écouter, à vous comprendre vous et vos attentes. 
+Comme le médecin, l'architecte doit être prêt à vous écouter, à vous comprendre vous et vos attentes. Vous être le maître d'ouvrage. C'est vous qui commandez la maison, qui en avez *la vision*. L'architecte doit pouvoir s'adapter à vos idées (sans tomber dans l'extrême bien sûr, il faut être raisonnable en toute chose). Ça, vous le verrez rapidement lors du premier entretien : avez-vous le sentiment que l'architecte vous écoute et rebondi sur ce que vous exprimer en vous proposant des idées compatibles avec votre vision, ou avez-vous l'impression qu'il ne vous écoute qu'à moitié et vous proposent des idées qui ne reprennent pas ce que vous lui expliquez ?
 
 ## Disponible
 
