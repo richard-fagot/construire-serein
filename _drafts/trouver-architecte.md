@@ -29,6 +29,7 @@ Bien sûr, n'hésitez pas à négocier mais rappelez-vous toujours qu'une bonne 
 
 
 ## Proximité de la construction
+=> Image google maps avec un itinéraire
 Trouver un architecte proche du terrain de construction est avantageux quant aux frais de déplacement et à la fréquence du suivi et des interventions.
 
 S'il facture des frais de déplacement, cela vous reviendra moins cher que si l'architecte doit faire 100km pour se rendre sur votre terrain. Et l'addition peut vite grimper.
