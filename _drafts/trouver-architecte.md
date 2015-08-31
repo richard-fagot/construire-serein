@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Sélectionner l'architecte"
-subheadline: "une fois le terrain trouvé il faut sélectionner l'architecte qui va réaliser votre maison."
-teaser: "..."
+subheadline: "Quels critères pour trouver l'architecte qui convient."
+teaser: "Une fois le terrain trouvé il faut sélectionner l'architecte qui va réaliser votre maison. "
 categories:
     - general
 ---
 Pendant la recherche du terrain, et au fur et à mesure que s'affine la zone de recherche, il faut également chercher l'architecte qui réalisera la maison.
 
-Cette recherche prend du temps parce qu'il faut trouver un architecte  
+Cette recherche prend du temps parce qu'il faut trouver un architecte :
 
 - qui soit dans le budget ;
 - qui soit assez proche du terrain à construire ;
