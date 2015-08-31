@@ -8,7 +8,7 @@ categories:
 ---
 Pendant la recherche du terrain, et au fur et à mesure que s'affine la zone de recherche, il faut également chercher l'architecte qui réalisera la maison.
 
-Cette recherche prend du temps parce qu'il en faut un : 
+Cette recherche prend du temps parce qu'il faut trouver un architecte  
 
 - qui soit dans le budget ;
 - qui soit assez proche du terrain à construire ;
@@ -18,7 +18,13 @@ Cette recherche prend du temps parce qu'il en faut un :
 - avec qui le courant passe bien.
 
 ## Budget
-en général on le découvre lors du premier entretien
+On trouve généralement, sur les forums et les sites spécialisés, qu'il faut compter des honoraires aux alentours de 10% du montant des travaux. Encore faut-il savoir ce qu'on compte dans les travaux. Même s'il y a un tronc commun à ce qu'on appelle *"les travaux"*, il y a toujours  des nuances qui peuvent se révéler franchement honéreuses. 
+
+Certains architectes se font rémunérer à l'heure. Dans ce cas, cela devient très difficile d'estimer le coût de l'architecte dans votre budget. Personnellement, je vous recommande de choisir ce type de rémunération que si vous êtes confiant et que vous savez ce que vous faites. 
+
+Pour ne pas avoir de surprises, il vaut mieux choisir une rémunération au pourcentage.
+
+Bien sûr, n'hésitez pas à négocier mais rappelez-vous toujours qu'une bonne négociation est une négociation qui finit sur un statut *gagnant/gagnant*. N'oubliez pas que c'est l'architecte qui va concevoir et suivre votre maison.
 
 ## Proximité de la construction
 frais de déplacement, suivi
@@ -35,3 +41,10 @@ Il faut que l'architecte soit prêt à vous écouter, à vous comprendre vous et
 ## Disponible
 
 ## Sympa
+
+## Conclusion
+Le mieux, est de rencontrer l'architecte qui vous semble intéressant. Au cours de cet entretien vous connaîtrait son mode de rémunération et ses frais, si vous êtes dans les budgets qui l'intéressent, si le courant passe bien. 
+
+Il pourra vous montrer quelques réalisations, vous expliquer comment il fonctionne.
+
+Et, dans tous les cas, présentez-lui votre projet et votre budget global. Il pourra déjà vous dire si il pourra réaliser votre maison (mais s'il vous dit que ce n'est pas possible, demandez-lui pourquoi. Ce n'est que si plusieurs architectes vous disent que ce n'est pas possible qu'il faudra remettre votre projet en question).
