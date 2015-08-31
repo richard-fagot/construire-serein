@@ -19,7 +19,8 @@ Cette recherche prend du temps parce qu'il faut trouver un architecte :
 
 
 ## Budget
-![Photo d'un tas de sous]()
+![Budget]({{ site.urlimg }budget.jpg "Budget"){: .center-image }
+
 On trouve généralement, sur les forums et les sites spécialisés, qu'il faut compter des honoraires aux alentours de 10% du montant des travaux. Encore faut-il savoir ce qu'on compte dans les travaux. Même s'il y a un tronc commun à ce qu'on appelle *"les travaux"*, il y a toujours  des nuances qui peuvent se révéler franchement onéreuses. 
 
 Certains architectes se font rémunérer à l'heure. Dans ce cas, cela devient très difficile d'estimer le coût de l'architecte dans votre budget. Personnellement, je vous recommande de choisir ce type de rémunération que si vous êtes confiant et que vous savez ce que vous faites. 
@@ -30,7 +31,8 @@ Bien sûr, n'hésitez pas à négocier mais rappelez-vous toujours qu'une bonne 
 
 
 ## Proximité de la construction
-![Image google maps avec un itinéraire]()
+![Proximité du terrain et de l'architecte]({{ site.urlimg }itineraire.png "Proximité du terrain et de l'architecte"){: .center-image }
+
 Trouver un architecte proche du terrain de construction est avantageux quant aux frais de déplacement et à la fréquence du suivi et des interventions.
 
 S'il facture des frais de déplacement, cela vous reviendra moins cher que si l'architecte doit faire 100km pour se rendre sur votre terrain. Et l'addition peut vite grimper.
@@ -39,7 +41,8 @@ s'il est proche du terrain, il pourra s'y rendre plus facilement et surtout plus
 
 
 ## Style architectural
-![Maison de ouf]()
+![Style de l'architecte]({{ site.urlimg }maisondesign.png "Style de l'architecte"){: .center-image }
+
 Les architectes sont des artistes. Ils prennent un terrain nu, quelques idées de pièces et font sortir de terre la maison de vos rêves, avec des détails que vous ne trouveriez pas chez un constructeur : un agencement de pièce original et fonctionnel, un aspect bien plus sexy que les maisons cubes aseptisées qu'on voit fleurir partout, des mélanges de matières, de couleurs, bref, une maison vivante, unique: votre maison à vous. 
 
 Encore faut-il que son style vous plaise !
@@ -47,13 +50,14 @@ Encore faut-il que son style vous plaise !
 Demandez à l'architecte quelques exemples de ses réalisations, les matières qu'il utilise, s'il a une sensibilité écologique, hi-tech, low-tech, etc.
 
 ## À l'écoute
-![Psychiatre]()
+![À l'écoute]({{ site.urlimg }ouvert.jpg "À l'écoute"){: .center-image }
+
 Vous arrivez chez l'architecte avec une idée plus ou moins précise de votre projet un peu comme on va chez le médecin en lui disant *"j'ai mal là"* et lui doit se débrouiller pour poser le bon diagnostique.
 
-Comme le médecin, l'architecte doit être prêt à vous écouter, à vous comprendre vous et vos attentes. Vous être le maître d'ouvrage. C'est vous qui commandez la maison, qui en avez *la vision*. L'architecte doit pouvoir s'adapter à vos idées (sans tomber dans l'extrême bien sûr, il faut être raisonnable en toute chose). Ça, vous le verrez rapidement lors du premier entretien : avez-vous le sentiment que l'architecte vous écoute et rebondi sur ce que vous exprimer en vous proposant des idées compatibles avec votre vision, ou avez-vous l'impression qu'il ne vous écoute qu'à moitié et vous proposent des idées qui ne reprennent pas ce que vous lui expliquez ?
+Comme le médecin, l'architecte doit être prêt à vous écouter, à vous comprendre vous et vos attentes. Vous être le maître d'ouvrage. C'est vous qui commandez la maison, qui en avez *la vision*. L'architecte doit pouvoir s'adapter à vos idées (sans tomber dans l'extrême bien sûr, il faut être raisonnable en toute chose). Ça, vous le verrez rapidement lors du premier entretien : avez-vous le sentiment que l'architecte vous écoute et rebondi sur ce que vous exprimez en vous proposant des idées compatibles avec votre vision, ou avez-vous l'impression qu'il ne vous écoute qu'à moitié et vous propose des idées qui ne reprennent pas ce que vous lui expliquez ?
 
 ## Disponible
-![Téléphone]()
+![Disponibilité de l'architecte]({{ site.urlimg }telephone.jpg "Disponibilité de l'architecte"){: .center-image }
 Un architecte est une personne occupée. Il gère plusieurs projets en même temps, est partagé entre des tâche de conception de plan, de rédaction de dossier de permis de construire, de dépôt des dossiers en mairie, de rédaction des CCTP, CCAP, Contrats, de suivi de chantier, de gestion des imprévus, etc. 
 
 Même s'il y a de forte chance qu'il soit assisté par plus ou moins de personnes pour cela il a quand même pas mal de chose à faire alors il lui faut trouver du temps pour répondre aux questions de ses clients, fournisseurs et artisans. 
@@ -61,7 +65,8 @@ Même s'il y a de forte chance qu'il soit assisté par plus ou moins de personne
 Demandez-lui comment se passe les contacts avec lui. Faut-il passer par une secrétaire ? Répond-il au mail, au téléphone ? Bref, est-il disponible ? (encore une fois dans la mesure du raisonnable, être disponible veut dire être capable de répondre à des demande ponctuelles, pas à être harcelé tous les jours).
 
 ## Sympa
-![Numérobis]()
+![Sympathie de l'architecte]({{ site.urlimg }numerobis.gif "Sympathie de l'architecte"){: .center-image }
+
 Là, c'est vous qui voyez. Personnellement, j'aime travailler avec des personnes avec qui je peux m'entendre. D'autres s'accommodent très bien d'une personne lunatique ou désagréable sous réserve qu'elle est de solides compétences.
 
 Ce qu'il faut retenir c'est que d'une part vous allez être en contact jusqu'à plusieurs fois par semaine avec cette personne pendant plus d'un an. Serez-vous capable de supporter une personne irascible autant de temps ? 
