@@ -17,6 +17,7 @@ Cette recherche prend du temps parce qu'il faut trouver un architecte
 - qui soit disponible ;
 - avec qui le courant passe bien.
 
+
 ## Budget
 On trouve généralement, sur les forums et les sites spécialisés, qu'il faut compter des honoraires aux alentours de 10% du montant des travaux. Encore faut-il savoir ce qu'on compte dans les travaux. Même s'il y a un tronc commun à ce qu'on appelle *"les travaux"*, il y a toujours  des nuances qui peuvent se révéler franchement honéreuses. 
 
@@ -26,8 +27,14 @@ Pour ne pas avoir de surprises, il vaut mieux choisir une rémunération au pour
 
 Bien sûr, n'hésitez pas à négocier mais rappelez-vous toujours qu'une bonne négociation est une négociation qui finit sur un statut *gagnant/gagnant*. N'oubliez pas que c'est l'architecte qui va concevoir et suivre votre maison.
 
+
 ## Proximité de la construction
-frais de déplacement, suivi
+Trouver un architecte proche du terrain de construction est avantageux quant aux frais de déplacement et à la fréquence du suivi et des interventions.
+
+S'il facture des frais de déplacement, cela vous reviendra moins cher que si l'architecte doit faire 100km pour se rendre sur votre terrain. Et l'addition peut vite grimper.
+
+s'il est proche du terrain, il pourra s'y rendre plus facilement et surtout plus fréquemment. Au plus l'architecte aura la possibilité de se rendre fréquemment sur le site au plus il pourra intervenir rapidement en cas d'inprévu et suivre le chantier au plus près. Et au plus il pourra intervenir rapidement et au moins ces imprévus coûteront chers (en particulier en terme de délais. En terme de coût, cela ne doit rien vous coûter sauf si vous êtes à l'origine de cet imprévu où qu'il est indépendant de la volonté des artisans ou de l'architecte).
+
 
 ## Style architectural
 Les architectes sont des artistes. Ils prennent un terrain nu, quelques idées de pièces 
