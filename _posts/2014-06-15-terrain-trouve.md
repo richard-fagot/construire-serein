@@ -6,6 +6,8 @@ teaser: "Après de longs mois de recherche, nous avons enfin trouvé le terrain 
 sidebar: right
 categories:
     - general
+image:
+    thumb: "terrain150x150.png"
 ---
 Après une bonne année de veille, 6 bons mois de recherche et une bonne vingtaine de visites nous avons enfin trouvé un terrain ! Certes pas le terrain de nos rêves mais un juste compromis entre la surface, le prix, la forme du terrain, la proximité et la quantité de voisins, la vue, …
 
