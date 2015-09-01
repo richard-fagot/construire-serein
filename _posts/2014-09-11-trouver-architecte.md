@@ -6,7 +6,7 @@ teaser: "Une fois le terrain trouvé il faut sélectionner l'architecte qui va r
 categories:
     - general
 image: 
-	thumb: "numerobis150x150.png"
+    thumb: "numerobis150x150.png"
 ---
 
 Pendant la recherche du terrain, et au fur et à mesure que s'affine la zone de recherche, il faut également chercher l'architecte qui réalisera la maison.
