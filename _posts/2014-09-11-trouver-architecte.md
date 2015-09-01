@@ -4,7 +4,7 @@ title:  "Sélectionner l'architecte"
 subheadline: "Quels critères pour trouver l'architecte qui convient."
 teaser: "Une fois le terrain trouvé il faut sélectionner l'architecte qui va réaliser votre maison. "
 image: 
-	thumb: numerobis150x150.png
+	thumb: "numerobis150x150.png"
 categories:
     - general
 ---
