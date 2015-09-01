@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Nouveau document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="355.13227"
+     inkscape:cy="695.55405"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#c4e2cf;fill-opacity:1;stroke:#316847;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2989"
+       sodipodi:cx="299.28571"
+       sodipodi:cy="293.79074"
+       sodipodi:rx="123.57143"
+       sodipodi:ry="70"
+       d="m 422.85713,293.79074 a 123.57143,70 0 1 1 -247.14285,0 123.57143,70 0 1 1 247.14285,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:52.75924683px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#316847;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="195.82915"
+       y="313.14951"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="195.82915"
+         y="313.14951"
+         style="fill:#316847;fill-opacity:1;font-family:Lato Heavy;-inkscape-font-specification:Lato Heavy">ASTUCE</tspan></text>
+    <path
+       style="fill:#c4e2cf;fill-opacity:1;stroke:#316847;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 318.21429,361.29075 c 6.90857,34.2908 31.94326,47.87311 58.92857,59.64286 -15.86924,-17.38388 -42.16582,-30.70011 -20.53572,-65.17857 l 10.71429,-4.10714"
+       id="path3759"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
