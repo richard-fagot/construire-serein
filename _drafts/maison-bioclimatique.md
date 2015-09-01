@@ -12,7 +12,9 @@ tags:
     - chauffage
     - facture
 image:
-    thumb: "astuce150x150.png"
+    thumb: "maison150x150.png"
+header:
+    image_fullwidth: "maison970.png"
 ---
 Derrière le nom de *bioclimatisme* se cache simplement une méthode pour tirer parti du terrain et du lieu de construction de la maison pour en optimiser le confort de façon naturelle, c'est-à-dire sans ajouter de matériel comme plus d'isolation ou un plus gros système de chauffage.
 
