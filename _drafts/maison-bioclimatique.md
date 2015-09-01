@@ -39,26 +39,40 @@ En été, le soleil est gênant surtout le matin et le soir. Pour savoir comment
 
 Pendant la belle saison, le soleil se lève très proche de l'*Est* (ce n'est pas le cas en hiver où il se lève plutôt au Nord-*Est*), monte très vite haut dans le ciel où il passe la plupart du temps dans la journée et finit par redescendre très vite très près de l'Ouest (Nord-Ouest en hiver) pour se coucher.
 
+!["Course du soleil dans le ciel en été et en hiver"]()
+
 Dans une journée d'été il suffit d'un débord de toit (comme une casquette) pour empêcher le soleil de pénétrer dans la maison. Comme ça la maison est à l'ombre pendant les heures les plus chaudes.
+
+!["Schéma de pénétration du soleil dans la maison en été et en hiver"]()
 
 Le soir, il faut protéger le côté Ouest. Dans une maison bioclimatique cela se traduit par l'absence de fenêtre à l'Ouest et/ou d'une maison en *"L"* comme dans l'image ci-dessous (c'est la solution que nous avons retenu pour notre maison).
 
-![Maison en L]()
+!["Maison en L"]()
 
 Pour le cas du matin on laisse le soleil rentrer dans la maison. En général, il fait suffisamment frais pour ne pas rentrer en surchauffe. Il suffit de laisser les volets fermés un petit peu plus longtemps et, très vite, grâce à la casquette solaire, il n'y a plus beaucoup de soleil qui rentre dans la maison.
 
 ## Forme de la maison
 Pour éviter les déperditions thermiques par le toit et les murs il faut que la maison offre le moins de surface d'échange avec l'extérieur. La forme parfaite est une maison compacte, avec un étage plutôt que de plein-pied.
 
+!["Comparaison maison compacte/étalée"]()
+
 ## Notre maison
 Les points cités plus hauts sont ceux qui nous parlaient le plus dans le bioclimatisme. Ils offrent un bon compromis d'adaptation du bioclimatisme à un projet concret de maison sans surcoût par rapport à une conception quelconque.
 
 Au final, la maison est orientée plein *Sud*, avec de grandes baies vitrées sur toute la façade du rez-de-chaussé. L'étage offre 4 portes fenêtres au *Sud* : deux donnant sur les chambres, permettant de les chauffer par le soleil l'hiver et deux donnant sur un vide sur séjour.
 
+!["Vue Sud"]()
+
 L'été, le rez-de-chaussé est protégé par un balcon. Le balcon offre une casquette solaire plus grande que nécessaire pour notre région. Le manque de soleil en hiver est compensé par les portes-fenêtres donnant sur le vide sur séjour. L'étage est protégé des rayons solaires d'été par un débord de toit.
 
 La partie Ouest de la maison est sans fenêtres et déborde côté *Sud* (façon pied de *"L"*) pour protéger la maison au maximum l'été.
 
+!["Vue Ouest"]()
+
 La façade *Est* a été conçue de façon classique avec des fenêtres et des portes-fenêtres. En été, on laissera les volets fermés le temps que le soleil soit suffisamment haut dans le ciel pour ne plus entraîner de surchauffe.
 
+!["Vue Est"]()
+
 Enfin, la façade *Nord* présente peu de fenêtres et elles sont toutes de petite taille et donnent sur des *espaces tampons*, des pièces peu utilisées (salle-de-bain, bureau, toilettes...).
+
+!["Vue Nord"]()
