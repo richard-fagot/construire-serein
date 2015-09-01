@@ -11,6 +11,8 @@ tags:
     - compromis
     - sous-seing
     - signature
+image:
+    thumb: "signature150x150.png"
 ---
 
 Ça y est ! on passe aux choses sérieuses, nous avons signé le compromis de vente du terrain.
