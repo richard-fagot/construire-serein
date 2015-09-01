@@ -6,6 +6,8 @@ teaser: "Nous voulons partager notre histoire pour que VOUS puissiez construire 
 sidebar: right
 categories:
     - general
+image:
+    thumb: "question150x150.png"
 ---
 
 Nous sommes un couple avec trois enfants… et un chat ! Il y a quelques années nous avions acheté un appartement dans Toulouse puis avec la naissance du deuxième nous avons souhaité quelque chose de plus grand et surtout à la campagne !
