@@ -8,6 +8,7 @@ categories:
 image: 
 	thumb: "numerobis150x150.png"
 ---
+
 Pendant la recherche du terrain, et au fur et à mesure que s'affine la zone de recherche, il faut également chercher l'architecte qui réalisera la maison.
 
 Cette recherche prend du temps parce qu'il faut trouver un architecte :
