@@ -51,7 +51,7 @@ Dans une journée d'été, il suffit d'un débord de toit (comme une casquette) 
 !["Schéma de pénétration du soleil dans la maison en été et en hiver"]({{ site.urlimg }}penetration-soleil.png "Schéma de pénétration du soleil dans la maison en été et en hiver")
 *Pénétration du soleil dans la maison en été et en hiver.*
 
-Le soir, il faut protéger le côté *Ouest*. Dans une maison bioclimatique, cela se traduit par l'absence de fenêtre à l'*Ouest* et/ou d'une maison en *"L"* comme dans l'image ci-dessous (c'est la solution que nous avons retenu pour notre maison).
+Le soir, il faut protéger le côté *Ouest*. Dans une maison bioclimatique, cela se traduit par l'absence de fenêtre à l'*Ouest*. Il est également possible, en plus de l'absence de fenêtre, de concevoir la maison en forme de *"L"* comme dans l'image ci-dessous (c'est la solution que nous avons retenu pour notre maison).
 
 {: .center-image }
 !["Maison en L"]({{ site.urlimg }}Maison-en-L.png "Maison en L")
@@ -81,7 +81,7 @@ La façade *Est* a été conçue de façon classique avec des fenêtres et des p
 !["Vue Sud"]({{ site.urlimg }}vue-sud-3D.png "Vue Sud")
 *Maison bioclimatique côté Sud.*
 
-La partie Ouest de la maison est sans fenêtres et déborde côté *Sud* (façon pied de *"L"*) pour protéger la maison au maximum l'été.
+La partie *Ouest* de la maison est sans fenêtres et déborde côté *Sud* (façon pied de *"L"*) pour protéger la maison au maximum l'été.
 
 Enfin, la façade *Nord* présente peu de fenêtres et elles sont toutes de petite taille et donnent sur des *espaces tampons*, des pièces peu utilisées (salle-de-bain, bureau, toilettes...).
 
