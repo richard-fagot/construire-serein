@@ -8,8 +8,8 @@ categories:
 ---
 Idées de posts dans l'ordre :
 
-1. Le bioclimatisme ;
-1. Trouver l'architecte ;
+*OK - 1. Le bioclimatisme ;*
+*OK - 1. Trouver l'architecte ;*
 1. Estimer le coût de la maison (maison, clôture, paysage terrain, frais divers...);
 1. Faire l'étude de sol ;
 

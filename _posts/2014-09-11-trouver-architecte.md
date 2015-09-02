@@ -83,3 +83,7 @@ Le mieux, est de rencontrer l'architecte qui vous semble intéressant. Au cours 
 Il pourra vous montrer quelques réalisations, vous expliquer comment il fonctionne.
 
 Et, dans tous les cas, présentez-lui votre projet et votre budget global. Il pourra déjà vous dire s'il pourra réaliser votre maison (mais s'il vous dit que ce n'est pas possible, demandez-lui pourquoi. Ce n'est que si plusieurs architectes vous disent que ce n'est pas possible qu'il faudra remettre votre projet en question).
+
+Dans notre cas nous avons rencontré trois architectes. Avec le premier le courant passait bien mais il lui manquait un peu de dynamisme pour nous. Le deuxième était un super architecte renommé, le courant passait un peu moins bien qu'avec le premier mais de toute façon il ne rentrait pas dans notre budget :D. Et enfin, le dernier était exactement ce qu'il nous fallait : sympathique, à l'écoute, dynamique, dans notre budget, proche du terrain de construction. 
+
+Trouver l'architecte nous a pris presque autant de temps que de trouver le bon terrain. Nous sommes même allés visiter des terrains avec un architecte que nous n'avons pas sélectionné au final. 
