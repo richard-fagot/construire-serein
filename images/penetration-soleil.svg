@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3965"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="penetration-soleil.svg">
+  <defs
+     id="defs3967">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4686"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <radialGradient
+       r="48.487324"
+       fy="236.15892"
+       fx="151.52289"
+       cy="236.15892"
+       cx="151.52289"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.3959313,0.01265856,-0.01492371,1.6457219,-56.468288,-154.41104)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3815-8"
+       xlink:href="#linearGradient3755-5-4"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3755-5-4">
+      <stop
+         style="stop-color:#ffec22;stop-opacity:1;"
+         offset="0"
+         id="stop3757-7-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3759-7-2" />
+    </linearGradient>
+    <radialGradient
+       r="48.487324"
+       fy="236.15892"
+       fx="151.52289"
+       cy="236.15892"
+       cx="151.52289"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.3959313,0.01265856,-0.01492371,1.6457219,-56.468288,-154.41104)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3988"
+       xlink:href="#linearGradient3755-5-4"
+       inkscape:collect="always" />
+    <radialGradient
+       r="48.487324"
+       fy="236.15892"
+       fx="151.52289"
+       cy="236.15892"
+       cx="151.52289"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.3959313,0.01265856,-0.01492371,1.6457219,-56.468288,-154.41104)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3815-8-1"
+       xlink:href="#linearGradient3755-5-4-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3755-5-4-3">
+      <stop
+         style="stop-color:#ffec22;stop-opacity:1;"
+         offset="0"
+         id="stop3757-7-3-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3759-7-2-6" />
+    </linearGradient>
+    <radialGradient
+       r="48.487324"
+       fy="236.15892"
+       fx="151.52289"
+       cy="236.15892"
+       cx="151.52289"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.3959313,0.01265856,-0.01492371,1.6457219,-56.468288,-154.41104)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3988-8"
+       xlink:href="#linearGradient3755-5-4-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-5-4-3"
+       id="linearGradient5083"
+       x1="405.03506"
+       y1="212.89211"
+       x2="408.79724"
+       y2="190.74925"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-5-4-3"
+       id="linearGradient5091"
+       x1="390.69653"
+       y1="210.54254"
+       x2="394.48462"
+       y2="187.93422"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-5-4-3"
+       id="linearGradient5099"
+       x1="598.65436"
+       y1="349.32645"
+       x2="614.28571"
+       y2="345.75504"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-5-4-3"
+       id="linearGradient5107"
+       x1="600.4057"
+       y1="363.98914"
+       x2="620.85712"
+       y2="359.43375"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="354.87741"
+     inkscape:cy="704.1998"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="960"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="337.85714,450"
+       id="guide4984" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="530.33009,410"
+       id="guide4986" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="676.80221,610.13214"
+       id="guide4988" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="363.57143,430"
+       id="guide4990" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="647.5,470"
+       id="guide4992" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="543.96715,415"
+       id="guide4994" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="513.15749,445"
+       id="guide4996" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="424.01153,457.09403"
+       id="guide4998" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="345.71429,716.07143"
+       id="guide5020" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="367.58929,701.96429"
+       id="guide5022" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="215.589,812.90179"
+       id="guide5024" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="63.589,846.00276"
+       id="guide5026" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="265.67012,515.68287"
+       id="guide5028" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3970">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#a5511f;fill-opacity:1;stroke:none"
+       id="rect4024-0"
+       width="16.162441"
+       height="25.652697"
+       x="314.77591"
+       y="310.25012"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#a5511f;fill-opacity:1;stroke:none"
+       id="rect4024"
+       width="16.162441"
+       height="207.08127"
+       x="67.680214"
+       y="329.09299"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 63.589,336.29075 152,-89.06479 152.00029,89.06479"
+       id="path4534"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#a7d9fa;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 323.75389,336.29075 0,200.38856"
+       id="path4536"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient5107);fill-opacity:1;stroke:url(#linearGradient5099);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 647.5,351.11931 120.94186,467.1011 123.41797,478.39894 90.513427,465.1358 114.85457,439.32634 c 0.78933,3.60148 4.56882,20.84637 2.6383,12.03788 L 647.5,322.61145 z"
+       id="path5000"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3988-8);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985-5-3-4"
+       sodipodi:cx="151.52289"
+       sodipodi:cy="236.15892"
+       sodipodi:rx="48.487324"
+       sodipodi:ry="48.487324"
+       d="m 200.01021,236.15892 a 48.487324,48.487324 0 1 1 -96.97465,0 48.487324,48.487324 0 1 1 96.97465,0 z"
+       transform="matrix(0.64644662,0,0,0.64644662,542.48525,187.54049)"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient5083);fill-opacity:1;stroke:url(#linearGradient5091);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 424.01153,168.76681 -61.17614,339.39519 11.39541,1.97911 -24.71906,25.44775 -14.69098,-32.29234 c 3.63259,0.63089 21.0264,3.65179 12.14184,2.10875 l 45.7342,-335.29473 z"
+       id="path5000-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3988);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985-5-3"
+       sodipodi:cx="151.52289"
+       sodipodi:cy="236.15892"
+       sodipodi:rx="48.487324"
+       sodipodi:ry="48.487324"
+       d="m 200.01021,236.15892 a 48.487324,48.487324 0 1 1 -96.97465,0 48.487324,48.487324 0 1 1 96.97465,0 z"
+       transform="matrix(0.64644662,0,0,0.64644662,311.16032,11.773962)"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#0dad1d;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 25,536.67931 366.42857,0"
+       id="path5067"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+       x="424.01154"
+       y="213.79076"
+       id="text5109"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5111"
+         x="424.01154"
+         y="213.79076">ÉTÉ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+       x="549.28571"
+       y="318.79077"
+       id="text5113"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/penetration-soleil.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5115"
+         x="549.28571"
+         y="318.79077">HIVER</tspan></text>
+  </g>
+</svg>

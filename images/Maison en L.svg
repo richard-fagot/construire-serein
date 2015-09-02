@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5117"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Maison en L.svg">
+  <defs
+     id="defs5119">
+    <linearGradient
+       id="linearGradient7314">
+      <stop
+         id="stop7316"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop7318"
+         offset="1"
+         style="stop-color:#909090;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       r="48.487324"
+       fy="236.15892"
+       fx="151.52289"
+       cy="236.15892"
+       cx="151.52289"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.3959313,0.01265856,-0.01492371,1.6457219,-56.468288,-154.41104)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3988"
+       xlink:href="#linearGradient3755-5-4"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3755-5-4">
+      <stop
+         style="stop-color:#ffec22;stop-opacity:1;"
+         offset="0"
+         id="stop3757-7-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3759-7-2" />
+    </linearGradient>
+    <radialGradient
+       r="48.487324"
+       fy="236.15892"
+       fx="151.52289"
+       cy="236.15892"
+       cx="151.52289"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.3959313,0.01265856,-0.01492371,1.6457219,-56.468288,-154.41104)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5154"
+       xlink:href="#linearGradient3755-5-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-5-4-3"
+       id="linearGradient5083"
+       x1="405.03506"
+       y1="212.89211"
+       x2="408.79724"
+       y2="190.74925"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3755-5-4-3">
+      <stop
+         style="stop-color:#ffec22;stop-opacity:1;"
+         offset="0"
+         id="stop3757-7-3-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3759-7-2-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755-5-4-3"
+       id="linearGradient5091"
+       x1="390.69653"
+       y1="210.54254"
+       x2="394.48462"
+       y2="187.93422"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5188">
+      <stop
+         style="stop-color:#ffec22;stop-opacity:1;"
+         offset="0"
+         id="stop5190" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5192" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.75952836,-0.65047418,0.65047418,0.75952836,-352.03742,597.60716)"
+       y2="-161.52565"
+       x2="495.92166"
+       y1="-120.41029"
+       x1="488.73483"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5195"
+       xlink:href="#linearGradient3755-5-4-3"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.75952836,-0.65047418,0.65047418,0.75952836,-352.03742,597.60716)"
+       y2="-165.37102"
+       x2="466.97635"
+       y1="-125.91074"
+       x1="461.39072"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5197"
+       xlink:href="#linearGradient3755-5-4-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7314"
+       id="linearGradient7312"
+       x1="215.21739"
+       y1="490.72763"
+       x2="245.97215"
+       y2="728.36603"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="24.012171"
+     inkscape:cy="636.88268"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="960"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="133.03571,545.71429"
+       id="guide5127" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="364.28571,545.71429"
+       id="guide5129" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="245.97215,339.03245"
+       id="guide5131" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="461.42857,335.71429"
+       id="guide5133" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="467.14286,721.42857"
+       id="guide5135" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="450,751.42857"
+       id="guide5137" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5122">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient7312);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 126.07143,510.93361 119.90072,-4.28572 0,210 -9.09138,8.67741 z"
+       id="path5736"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/Maison en L.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 133.03571,330.93361 334.64196,0.50508 0,385.71428 -221.70552,-0.50508 0,-210 -113.29448,0 z"
+       id="path5125"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/Maison en L.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient5195);fill-opacity:1;stroke:url(#linearGradient5197);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -78.067328,129.26751 332.159938,618.28807 9.9425,-5.90924 -2.22172,35.4074 -32.16355,-14.97084 c 3.16943,-1.88373 18.34554,-10.9035 10.59376,-6.29631 L -115.97769,154.94325 z"
+       id="path5000-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/Maison en L.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient5154);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2985-5-3"
+       sodipodi:cx="151.52289"
+       sodipodi:cy="236.15892"
+       sodipodi:rx="48.487324"
+       sodipodi:ry="48.487324"
+       d="m 200.01021,236.15892 a 48.487324,48.487324 0 1 1 -96.97465,0 48.487324,48.487324 0 1 1 96.97465,0 z"
+       transform="matrix(1.5428932,0,0,1.5428932,-350.47112,-264.11919)"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/Maison en L.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+       x="202.03052"
+       y="205.85435"
+       id="text7320"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/Maison en L.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7322"
+         x="202.03052"
+         y="205.85435"
+         style="font-size:40px">OUEST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+       x="-132.32999"
+       y="533.1438"
+       id="text7324"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/richard/Projet/construire-serein/images/Maison en L.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7326"
+         x="-132.32999"
+         y="533.1438"
+         style="font-size:40px">SUD</tspan></text>
+  </g>
+</svg>
