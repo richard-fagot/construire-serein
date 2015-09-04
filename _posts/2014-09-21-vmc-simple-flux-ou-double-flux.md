@@ -15,7 +15,7 @@ image:
     thumb: "vmc150x150.png"
 header:
     image_fullwidth: "maison970.png"
-    caption: "Émilie Duéso, Architecte DPLG"
+    caption: "Vue créée par Émilie Duéso, Architecte DPLG"
 ---
 Lors d'une conversation, l'architecte nous a dit choisir une *VMC simple-flux* pour la maison, ce qui nous a surpris parce que pour nous, ils nous semblait que la *VMC double-flux* était la seule solution à retenir pour une maison bioclimatique.
 
